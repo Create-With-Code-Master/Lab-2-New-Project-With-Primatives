@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="https://connect-prd-cdn.unity.com/20190606/learn/images/3911de90-959f-42aa-b999-8604db788c65_lab_2.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this lab you'll start building a game of your own, based on the design you started in Lab 1.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
